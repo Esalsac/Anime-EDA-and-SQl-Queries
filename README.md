@@ -75,7 +75,7 @@ We noticed a shift in series length. Starting from the 1990s the data begins to 
 
 No substantial conclusions were drawn as sampling volume became an issue but we did manage to observe a stable mean and a high bias in the data to the 2010s.
 
-![alt text](https://github.com/Esalsac/Anime-EDA-and-SQl-Queries/blob/main/Images/decades_movies.png"?raw=true)
+![alt text](https://github.com/Esalsac/Anime-EDA-and-SQl-Queries/blob/main/Images/decades_movies.png?raw=true)
 
 ### The Relationship Between Genre Studio and Rating Score
 
